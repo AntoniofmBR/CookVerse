@@ -1,0 +1,74 @@
+{
+  "tips": [
+    {
+      "id": 1,
+      "title": "Dicas para Manter a Cozinha Organizada",
+      "summary": "Aprenda técnicas simples para manter sua cozinha sempre organizada e prática de usar.",
+      "url": "src/assets/svg/tipsIcons/tipIcon.svg",
+      "content": "Uma cozinha organizada facilita o preparo das refeições e economiza tempo. Comece separando os utensílios por tipo, utilizando divisórias nas gavetas para talheres, facas, e outros acessórios pequenos. Dessa forma, você sempre saberá onde estão as coisas e terá mais espaço para trabalhar sem bagunça.\n\nAlém disso, mantenha apenas o essencial no balcão para evitar um aspecto sobrecarregado e melhorar a funcionalidade. Utilize etiquetas para identificar potes e cestas de armazenamento, isso ajudará a visualizar rapidamente o que está disponível e o que precisa ser reabastecido."
+    },
+    {
+      "id": 2,
+      "title": "Como Cozinhar Vegetais no Ponto Certo",
+      "summary": "Descubra o tempo ideal para cozinhar vegetais e manter seus nutrientes e sabor.",
+      "url": "src/assets/svg/tipsIcons/tipIcon2.svg",
+      "content": "Para preservar os nutrientes e o sabor dos vegetais, prefira cozinhá-los no vapor ou com pouca água e mantenha o tempo de cozimento adequado. Por exemplo, o brócolis leva cerca de 5 minutos, a cenoura 7 minutos, e o espinafre apenas 2 minutos para ficarem perfeitos.\n\nOutra dica é cozinhar sempre em fogo médio e manter a tampa fechada, pois isso ajuda a reter o vapor e os nutrientes. Ao retirar os vegetais do fogo, jogue água gelada sobre eles para interromper o cozimento e preservar a cor e textura."
+    },
+    {
+      "id": 3,
+      "title": "Truques de Corte para Ganhar Tempo na Cozinha",
+      "summary": "Aprenda cortes essenciais que facilitam o preparo das receitas do dia a dia.",
+      "url": "src/assets/svg/tipsIcons/tipIcon3.svg",
+      "content": "Dominar cortes básicos como julienne e cubos ajuda a acelerar o preparo dos ingredientes e traz uniformidade às receitas. Manter suas facas afiadas é essencial para cortes rápidos e seguros. Para garantir estabilidade, utilize tábuas de corte que não escorreguem na bancada.\n\nOutra dica prática é organizar os ingredientes de acordo com o tipo antes de começar a cortar. Assim, você evita misturar sabores e facilita o fluxo do preparo. Experimente também técnicas como o corte em diagonal para vegetais que ficam melhor com essa apresentação."
+    },
+    {
+      "id": 4,
+      "title": "Temperos Essenciais para Todo Cozinheiro",
+      "summary": "Conheça os temperos indispensáveis que elevam o sabor de qualquer prato.",
+      "url": "src/assets/svg/tipsIcons/tipIcon4.svg",
+      "content": "Alho, cebola, pimenta-do-reino e ervas frescas são temperos básicos que transformam o sabor de qualquer receita, e são fáceis de usar no dia a dia. Cada um traz um perfil de sabor específico e é versátil em diversas preparações.\n\nAlém dos básicos, experimente especiarias como páprica e cominho para adicionar complexidade ao prato. Elas podem ser usadas em pequenas quantidades para não sobrecarregar o sabor, mas fazem toda a diferença quando bem equilibradas com outros temperos."
+    },
+    {
+      "id": 5,
+      "title": "Evite Erros ao Cozinhar Carne",
+      "summary": "Dicas práticas para cozinhar carne no ponto certo, evitando erros comuns.",
+      "url": "src/assets/svg/tipsIcons/tipIcon5.svg",
+      "content": "Para garantir uma carne suculenta, evite perfurá-la durante o cozimento, pois isso faz com que os sucos saiam e a carne fique seca. Deixe-a descansar por alguns minutos antes de cortar, isso ajuda a reter os sucos no interior da carne.\n\nUse altas temperaturas no início para selar o exterior da carne e criar uma crosta saborosa. Depois, reduza o fogo para cozinhar o interior, garantindo que a carne fique macia e cozida por igual."
+    },
+    {
+      "id": 6,
+      "title": "Organize a Geladeira para Prolongar os Alimentos",
+      "summary": "Dicas de organização que ajudam a manter os alimentos frescos por mais tempo.",
+      "url": "src/assets/svg/tipsIcons/tipIcon6.svg",
+      "content": "Organizar a geladeira pode prolongar a vida útil dos alimentos. Mantenha itens mais perecíveis, como laticínios, na prateleira do meio, onde a temperatura é mais estável. Carnes devem ficar na prateleira inferior para evitar o risco de contaminação cruzada.\n\nFrutas e vegetais ficam frescos por mais tempo nas gavetas específicas, já que são projetadas para controlar a umidade. Utilizar potes transparentes facilita a visualização e evita que alimentos sejam esquecidos e estraguem."
+    },
+    {
+      "id": 7,
+      "title": "Como Fazer o Arroz Perfeito",
+      "summary": "Dicas para preparar um arroz soltinho e saboroso.",
+      "url": "src/assets/svg/tipsIcons/tipIcon7.svg",
+      "content": "Lave o arroz até que a água fique transparente para remover o excesso de amido, isso evitará que o arroz fique empapado. Use a proporção de 2 partes de água para 1 parte de arroz e cozinhe em fogo baixo.\n\nEvite mexer durante o cozimento, pois isso libera amido e deixa o arroz grudento. Deixe o arroz descansar alguns minutos com a panela tampada após o cozimento, para que os grãos fiquem soltos e no ponto certo."
+    },
+    {
+      "id": 8,
+      "title": "Dicas para Descascar Alho Facilmente",
+      "summary": "Métodos práticos para descascar alho sem dificuldades.",
+      "url": "src/assets/svg/tipsIcons/tipIcon8.svg",
+      "content": "Para descascar alho facilmente, amasse o dente de alho com o lado da faca. Isso solta a casca, facilitando a remoção. Outra opção é colocar os dentes de alho de molho em água morna por alguns minutos.\n\nEsses métodos ajudam a reduzir o tempo de preparo, especialmente em receitas que utilizam bastante alho. Com a prática, você verá que descascar alho pode ser rápido e fácil."
+    },
+    {
+      "id": 9,
+      "title": "Aproveite as Sobras e Evite Desperdícios",
+      "summary": "Transforme sobras de alimentos em novas receitas.",
+      "url": "src/assets/svg/tipsIcons/tipIcon9.svg",
+      "content": "Aproveitar sobras de alimentos é uma maneira prática de reduzir desperdício e economizar dinheiro. Por exemplo, sobras de legumes podem ser transformadas em caldos, e restos de carne podem ser usados para enriquecer sopas.\n\nCom um pouco de criatividade, é possível reaproveitar diversos ingredientes e dar nova vida a eles em outras receitas. Isso também é uma ótima maneira de contribuir para a sustentabilidade e evitar o desperdício de alimentos."
+    },
+    {
+      "id": 10,
+      "title": "Como Evitar Que o Óleo Espirre",
+      "summary": "Truques para evitar acidentes ao fritar alimentos.",
+      "url": "src/assets/svg/tipsIcons/tipIcon10.svg",
+      "content": "Antes de fritar, seque bem os alimentos com um papel toalha para remover a umidade. Essa prática ajuda a evitar que o óleo espirre durante o cozimento e reduz os riscos de acidentes.\n\nOutro truque é adicionar uma pitada de sal ao óleo antes de colocar os alimentos. Isso estabiliza o óleo e reduz a quantidade de respingos, tornando o processo mais seguro e eficiente."
+    }
+  ]
+}

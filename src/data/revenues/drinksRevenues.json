@@ -1,0 +1,177 @@
+{
+  "drinksRevenues": [
+    {
+      "id": 1,
+      "title": "Limonada com Hortelã",
+      "description": "Uma refrescante limonada com um toque de hortelã.",
+      "summary": "Perfeita para dias quentes, essa limonada é revitalizante e cheia de sabor.",
+      "url": "https://dicasdaoksi.pt/wp-content/uploads/2022/07/Limonada_dicas_da_oksi.jpg",
+      "ingredients": [
+        "2 limões",
+        "1/2 xícara de açúcar",
+        "1 litro de água",
+        "Um punhado de folhas de hortelã"
+      ],
+      "steps_to_prepare": [
+        "Esprema o suco dos limões em uma jarra.",
+        "Adicione o açúcar e misture até dissolver.",
+        "Junte a água e as folhas de hortelã.",
+        "Sirva gelado."
+      ],
+      "category": "drinks"
+    },
+    {
+      "id": 2,
+      "title": "Smoothie de Frutas",
+      "description": "Um smoothie cremoso e saudável, perfeito para qualquer hora do dia.",
+      "summary": "Uma mistura de frutas frescas que vai energizar seu dia.",
+      "url": "https://claudia.abril.com.br/wp-content/uploads/2020/02/thinkstockphotos-839497302-1.jpg",
+      "ingredients": [
+        "1 banana",
+        "1/2 xícara de morangos",
+        "1/2 xícara de iogurte",
+        "1/2 xícara de leite"
+      ],
+      "steps_to_prepare": [
+        "Coloque todos os ingredientes no liquidificador.",
+        "Bata até ficar homogêneo.",
+        "Sirva gelado."
+      ],
+      "category": "drinks"
+    },
+    {
+      "id": 3,
+      "title": "Chá Gelado de Pêssego",
+      "description": "Chá refrescante com um toque doce de pêssego.",
+      "summary": "Ideal para dias quentes, esse chá gelado é muito fácil de preparar.",
+      "url": "https://catracalivre.com.br/wp-content/uploads/2023/07/cha-gelado-pessego.jpg",
+      "ingredients": [
+        "4 saquinhos de chá preto",
+        "2 pêssegos fatiados",
+        "1/4 de xícara de açúcar",
+        "1 litro de água"
+      ],
+      "steps_to_prepare": [
+        "Ferva a água e adicione os saquinhos de chá.",
+        "Deixe em infusão por 5 minutos.",
+        "Misture o açúcar e adicione os pêssegos.",
+        "Deixe esfriar e sirva gelado."
+      ],
+      "category": "drinks"
+    },
+    {
+      "id": 4,
+      "title": "Golden Milk",
+      "description": "Uma bebida quente à base de cúrcuma, cheia de propriedades saudáveis.",
+      "summary": "Golden milk é uma bebida reconfortante e anti-inflamatória.",
+      "url": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2019/02/Golden-Milk-main.jpg",
+      "ingredients": [
+        "1 xícara de leite (ou leite vegetal)",
+        "1 colher de chá de cúrcuma em pó",
+        "1 colher de chá de mel",
+        "Uma pitada de canela"
+      ],
+      "steps_to_prepare": [
+        "Aqueça o leite em uma panela.",
+        "Adicione a cúrcuma, o mel e a canela.",
+        "Misture bem e sirva quente."
+      ],
+      "category": "drinks"
+    },
+    {
+      "id": 5,
+      "title": "Suco Verde Detox",
+      "description": "Um suco refrescante e nutritivo, ideal para desintoxicar.",
+      "summary": "Repleto de nutrientes, esse suco é perfeito para começar o dia.",
+      "url": "https://img.band.uol.com.br/image/2023/06/23/suco-verde-detox-15325.jpg",
+      "ingredients": [
+        "1/2 pepino",
+        "1/2 maçã verde",
+        "1 punhado de espinafre",
+        "1/2 limão espremido",
+        "1 copo de água"
+      ],
+      "steps_to_prepare": [
+        "Coloque todos os ingredientes no liquidificador.",
+        "Bata até ficar homogêneo.",
+        "Sirva gelado."
+      ],
+      "category": "drinks"
+    },
+    {
+      "id": 6,
+      "title": "Chocolate Quente",
+      "description": "Uma bebida quente de chocolate cremosa e reconfortante.",
+      "summary": "Perfeita para aquecer os dias frios, essa bebida é um clássico.",
+      "url": "https://static.itdg.com.br/images/360-240/c917c8b8756e11e760db1cb81e1b8250/321194-original.jpg",
+      "ingredients": [
+        "2 xícaras de leite",
+        "2 colheres de sopa de achocolatado",
+        "1 colher de sopa de açúcar",
+        "Chocolate em pedaços para decorar"
+      ],
+      "steps_to_prepare": [
+        "Aqueça o leite em uma panela.",
+        "Adicione o achocolatado e o açúcar, misturando bem.",
+        "Sirva quente, decorando com pedaços de chocolate."
+      ],
+      "category": "drinks"
+    },
+    {
+      "id": 7,
+      "title": "Suco de Abacaxi com Gengibre",
+      "description": "Um suco refrescante com um toque picante de gengibre.",
+      "summary": "Esse suco é perfeito para refrescar e energizar.",
+      "url": "https://docerar.pt/wp-content/uploads/2018/06/ananas.jpg",
+      "ingredients": [
+        "1/2 abacaxi",
+        "1 pedaço pequeno de gengibre",
+        "1 colher de sopa de açúcar",
+        "1 litro de água"
+      ],
+      "steps_to_prepare": [
+        "Corte o abacaxi e o gengibre em pedaços.",
+        "Coloque todos os ingredientes no liquidificador.",
+        "Bata até ficar homogêneo e sirva gelado."
+      ],
+      "category": "drinks"
+    },
+    {
+      "id": 8,
+      "title": "Água Aromatizada com Frutas",
+      "description": "Água refrescante e aromatizada com frutas da sua escolha.",
+      "summary": "Uma forma saudável e saborosa de beber água.",
+      "url": "https://blog.colombo.com.br/wp-content/uploads/2015/12/10-receitas-de-C381gua-Aromatizada-para-fazer-em-casa-2.jpg",
+      "ingredients": [
+        "1 litro de água",
+        "Frutas fatiadas (morango, limão, laranja, etc.)",
+        "Folhas de hortelã"
+      ],
+      "steps_to_prepare": [
+        "Adicione as frutas e as folhas de hortelã na água.",
+        "Deixe na geladeira por algumas horas antes de servir.",
+        "Sirva gelado."
+      ],
+      "category": "drinks"
+    },
+    {
+      "id": 9,
+      "title": "Batida de Coco",
+      "description": "Uma bebida cremosa de coco, perfeita para o verão.",
+      "summary": "Refrescante e saborosa, essa batida é ideal para dias quentes.",
+      "url": "https://static.itdg.com.br/images/auto-auto/8037f382bfefe5d6690caf30bd0eeb2b/batida-de-coco-com-leite-condensado.jpg",
+      "ingredients": [
+        "1/2 xícara de leite de coco",
+        "1/2 xícara de leite",
+        "2 colheres de sopa de açúcar",
+        "Gelo a gosto"
+      ],
+      "steps_to_prepare": [
+        "Misture todos os ingredientes no liquidificador.",
+        "Bata até ficar homogêneo.",
+        "Sirva gelado."
+      ],
+      "category": "drinks"
+    }
+  ]
+}

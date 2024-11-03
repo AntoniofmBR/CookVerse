@@ -1,0 +1,194 @@
+{
+  "dessertRevenues": [
+    {
+      "id": 1,
+      "title": "Brownie de Chocolate",
+      "description": "Bolo de chocolate denso e úmido, perfeito para os amantes de chocolate.",
+      "summary": "O brownie é uma sobremesa clássica que combina chocolate e nozes, ideal para acompanhar um café.",
+      "url": "https://static.itdg.com.br/images/640-440/5d139b703a9df7604abf863a3bd76aa6/252863-shutterstock-1938293728.jpg",
+      "category": "dessert",
+      "ingredients": [
+        "200g de chocolate meio amargo",
+        "100g de manteiga",
+        "1 xícara de açúcar",
+        "2 ovos",
+        "1/2 xícara de farinha de trigo",
+        "1/2 xícara de nozes picadas",
+        "1 colher de chá de essência de baunilha"
+      ],
+      "steps_to_prepare": [
+        "Derreta o chocolate e a manteiga em banho-maria.",
+        "Misture o açúcar e os ovos, depois adicione o chocolate derretido.",
+        "Incorpore a farinha, as nozes e a essência de baunilha.",
+        "Despeje em uma forma untada e asse a 180°C por 25 minutos."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Torta de Limão",
+      "description": "Deliciosa torta com base crocante e recheio cremoso de limão.",
+      "summary": "A torta de limão é uma sobremesa refrescante e perfeita para o verão.",
+      "url": "https://recipesblob.oetker.com.br/assets/d044a4ef3cfe45998593f500c00942ef/1272x764/torta-de-limo.jpg",
+      "category": "dessert",
+      "ingredients": [
+        "1 pacote de biscoito triturado",
+        "100g de manteiga derretida",
+        "1 lata de leite condensado",
+        "1/2 xícara de suco de limão",
+        "3 gemas",
+        "1 clara em neve"
+      ],
+      "steps_to_prepare": [
+        "Misture os biscoitos com a manteiga e forre uma forma.",
+        "Em uma tigela, misture o leite condensado, suco de limão e gemas.",
+        "Despeje sobre a base e leve ao forno a 180°C por 15 minutos.",
+        "Finalize cobrindo com a clara em neve e asse até dourar."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Mousse de Chocolate",
+      "description": "Sobremesa leve e aerada feita com chocolate e creme de leite.",
+      "summary": "A mousse de chocolate é um clássico das sobremesas, fácil de fazer e deliciosa.",
+      "url": "https://www.receitasnestle.com.br/sites/default/files/srh_recipes/369562012750bd46ceaeef5d59a23229.jpg",
+      "category": "dessert",
+      "ingredients": [
+        "200g de chocolate meio amargo",
+        "2 claras",
+        "2 gemas",
+        "1/2 xícara de creme de leite",
+        "1/4 xícara de açúcar"
+      ],
+      "steps_to_prepare": [
+        "Derreta o chocolate em banho-maria.",
+        "Bata as claras em neve e reserve.",
+        "Misture as gemas ao chocolate derretido e adicione o creme de leite.",
+        "Incorpore delicadamente as claras em neve e leve à geladeira por 4 horas."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Pavê de Chocolate",
+      "description": "Camadas de biscoito, chocolate e creme, uma sobremesa que derrete na boca.",
+      "summary": "O pavê de chocolate é uma sobremesa fácil de montar e muito apreciada em festas.",
+      "url": "https://s2-receitas.glbimg.com/xP7yT-vguaAxVb00bPvMndySzxU=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2022/J/H/uBe51BRMiAgskpDJXKcg/pave-de-chocolate.jpg",
+      "category": "dessert",
+      "ingredients": [
+        "1 pacote de biscoito maisena",
+        "1 lata de leite condensado",
+        "1/2 xícara de leite",
+        "200g de chocolate meio amargo",
+        "1/2 xícara de creme de leite",
+        "Chocolate granulado para decorar"
+      ],
+      "steps_to_prepare": [
+        "Prepare o creme misturando o leite condensado, leite e chocolate em banho-maria até engrossar.",
+        "Em uma travessa, faça camadas alternadas de biscoitos e creme.",
+        "Finalize com o creme e decore com chocolate granulado.",
+        "Leve à geladeira por 3 horas antes de servir."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Gelatina de Frutas",
+      "description": "Gelatina colorida e saborosa, perfeita para refrescar.",
+      "summary": "Uma sobremesa leve e divertida, ótima para festas e dias quentes.",
+      "url": "https://i.ytimg.com/vi/L4ywOnsafvY/maxresdefault.jpg",
+      "category": "dessert",
+      "ingredients": [
+        "2 pacotes de gelatina de sabores diferentes",
+        "1 lata de frutas em calda",
+        "Água para preparar as gelatinas"
+      ],
+      "steps_to_prepare": [
+        "Prepare as gelatinas conforme as instruções do pacote.",
+        "Misture as frutas em calda em uma das gelatinas antes de levar à geladeira.",
+        "Despeje a outra gelatina sobre a primeira já firme e leve novamente à geladeira até firmar."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Pudim",
+      "description": "Clássico pudim de leite condensado, com caramelo e textura cremosa.",
+      "summary": "O pudim é uma das sobremesas mais queridas, perfeita para qualquer ocasião.",
+      "url": "https://static.itdg.com.br/images/640-440/d1307a2e17cda187df76b78cfd3ac464/shutterstock-2322251819-1-.jpg",
+      "category": "dessert",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 latas de leite",
+        "3 ovos",
+        "1 xícara de açúcar para caramelizar"
+      ],
+      "steps_to_prepare": [
+        "Caramelize o açúcar em uma forma e reserve.",
+        "Bata no liquidificador o leite condensado, o leite e os ovos até ficar homogêneo.",
+        "Despeje na forma caramelizada e leve ao forno em banho-maria a 180°C por 1 hora.",
+        "Deixe esfriar e desenforme."
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Torta de Morango",
+      "description": "Torta fresca e doce com morangos frescos e creme.",
+      "summary": "Uma torta perfeita para os amantes de frutas, ideal para o verão.",
+      "url": "https://www.receitasnestle.com.br/sites/default/files/srh_recipes/efbe0e7c5f30121a83f2565fc97e0b07.jpg",
+      "category": "dessert",
+      "ingredients": [
+        "1 pacote de biscoito de chocolate",
+        "100g de manteiga derretida",
+        "1 lata de leite condensado",
+        "1 caixinha de creme de leite",
+        "1 xícara de morangos frescos",
+        "Gelatina de morango para cobertura"
+      ],
+      "steps_to_prepare": [
+        "Misture os biscoitos com a manteiga e forre o fundo de uma forma.",
+        "Misture o leite condensado e o creme de leite e despeje sobre a base.",
+        "Cubra com morangos e finalize com a gelatina, levando à geladeira até firmar."
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Bolo de Cenoura com Chocolate",
+      "description": "Bolo macio de cenoura coberto com ganache de chocolate.",
+      "summary": "Uma combinação perfeita entre cenoura e chocolate, irresistível em qualquer ocasião.",
+      "url": "https://s2-receitas.glbimg.com/23Ly-g5jGpW1dCKCbOUV4iP0dG0=/0x0:1200x675/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2024/4/m/flSJmjT8Ch3WsPuCH4RA/bolo-de-cenoura-com-calda-de-chocolate.jpg",
+      "category": "dessert",
+      "ingredients": [
+        "3 cenouras médias",
+        "4 ovos",
+        "1 xícara de óleo",
+        "2 xícaras de açúcar",
+        "2 xícaras de farinha de trigo",
+        "1 colher de sopa de fermento",
+        "200g de chocolate meio amargo"
+      ],
+      "steps_to_prepare": [
+        "Bata no liquidificador as cenouras, ovos e óleo.",
+        "Misture com os ingredientes secos e asse a 180°C por 40 minutos.",
+        "Derreta o chocolate e cubra o bolo já frio."
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Torta de Chocolate",
+      "description": "Torta rica de chocolate com base de biscoitos e recheio cremoso.",
+      "summary": "Uma torta indulgente para os chocólatras, perfeita para festas.",
+      "url": "https://img.cybercook.com.br/receitas/130/torta-de-chocolate-crocante-1.jpeg",
+      "category": "dessert",
+      "ingredients": [
+        "1 pacote de biscoito de chocolate",
+        "100g de manteiga derretida",
+        "1 lata de leite condensado",
+        "200g de chocolate meio amargo derretido",
+        "3 ovos",
+        "1/2 xícara de creme de leite"
+      ],
+      "steps_to_prepare": [
+        "Misture os biscoitos com a manteiga e forre uma forma.",
+        "Misture o leite condensado, chocolate, ovos e creme de leite.",
+        "Despeje sobre a base e asse em forno pré-aquecido a 180°C por 30 minutos."
+      ]
+    }
+  ]
+}

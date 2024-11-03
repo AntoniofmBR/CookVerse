@@ -1,0 +1,165 @@
+{
+  "breakfastRevenues": [
+    {
+      "id": 1,
+      "title": "Pão na chapa",
+      "description": "Pão francês levemente tostado na chapa com manteiga, ideal para um café da manhã rápido e saboroso.",
+      "summary": "Pão na chapa é uma escolha rápida e deliciosa, perfeita para quem quer praticidade sem abrir mão do sabor.",
+      "url": "https://i.ytimg.com/vi/OYDRYWeKuKk/maxresdefault.jpg",
+      "category": "breakfast",
+      "ingredients": [
+        "1 pão francês",
+        "1 colher de sopa de manteiga"
+      ],
+      "steps_to_prepare": [
+        "Corte o pão francês ao meio.",
+        "Aqueça uma frigideira e coloque a manteiga.",
+        "Doure cada metade do pão na manteiga até que fique levemente tostado."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Panquecas de banana",
+      "description": "Panquecas fofas feitas com bananas maduras e um toque de canela, perfeitas para um café da manhã nutritivo.",
+      "summary": "Essas panquecas de banana são ideais para um café da manhã saudável e saboroso. Feitas com poucos ingredientes e agrada qualquer paladar.",
+      "url": "https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.3291616:1666321797/Panqueca%20com%20banana%20(1).jpg?f=16x9&$p$f=8652c1a",
+      "category": "breakfast",
+      "ingredients": [
+        "1 banana madura",
+        "1 ovo",
+        "1/4 xícara de aveia em flocos",
+        "1/2 colher de chá de canela"
+      ],
+      "steps_to_prepare": [
+        "Amasse a banana e misture com o ovo.",
+        "Adicione a aveia e a canela, misturando bem.",
+        "Aqueça uma frigideira e coloque porções da massa, cozinhando cada lado até dourar."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Omelete de espinafre",
+      "description": "Omelete leve e saudável com espinafre e temperos, ideal para um café da manhã rico em proteínas.",
+      "summary": "O omelete de espinafre é uma escolha nutritiva e cheia de proteínas, ótimo para um começo de dia saudável, ele é leve e fácil de preparar.",
+      "url": "https://img.cybercook.com.br/receitas/85/omelete-de-espinafre-2.jpeg",
+      "category": "breakfast",
+      "ingredients": [
+        "2 ovos",
+        "1/2 xícara de espinafre picado",
+        "Sal e pimenta a gosto"
+      ],
+      "steps_to_prepare": [
+        "Bata os ovos e tempere com sal e pimenta.",
+        "Adicione o espinafre picado e misture.",
+        "Despeje a mistura em uma frigideira quente e cozinhe até dourar dos dois lados."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Smoothie bowl",
+      "description": "Tigela de smoothie com frutas variadas, granola e sementes para um café da manhã refrescante e nutritivo.",
+      "summary": "Uma opção refrescante e nutritiva, o smoothie bowl combina frutas, granola e sementes, criando uma tigela colorida e energética.",
+      "url": "https://www.tasteofhome.com/wp-content/uploads/2018/06/Berry-Smoothie-Bowl_EXPS_JMZ18_224489_B03_08_5b.jpg",
+      "category": "breakfast",
+      "ingredients": [
+        "1 banana congelada",
+        "1/2 xícara de frutas vermelhas",
+        "1/4 xícara de iogurte",
+        "Granola e sementes para decorar"
+      ],
+      "steps_to_prepare": [
+        "Bata a banana, frutas vermelhas e iogurte no liquidificador até obter uma textura cremosa.",
+        "Despeje em uma tigela e adicione granola e sementes por cima."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Torradas francesas",
+      "description": "Torradas embebidas em uma mistura de leite e ovos, douradas na frigideira e polvilhadas com canela e açúcar.",
+      "summary": "As torradas francesas trazem um toque clássico e especial para a manhã.",
+      "url": "https://catracalivre.com.br/wp-content/uploads/2023/07/istock-1351182272-910x607.jpg",
+      "category": "breakfast",
+      "ingredients": [
+        "2 fatias de pão",
+        "1 ovo",
+        "1/4 xícara de leite",
+        "Canela e açúcar para polvilhar"
+      ],
+      "steps_to_prepare": [
+        "Misture o ovo com o leite em uma tigela.",
+        "Embeba cada fatia de pão na mistura.",
+        "Doure as fatias em uma frigideira quente e polvilhe com canela e açúcar."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Pão de queijo recheado",
+      "description": "Pão de queijo mineiro recheado com ingredientes variados como presunto e queijo ou requeijão.",
+      "summary": "Um pão de queijo com recheio é a combinação perfeita de sabor e maciez, trazendo a tradicional receita mineira com um toque a mais.",
+      "url": "https://images.tcdn.com.br/img/img_prod/934600/pao_de_queijo_recheado_com_requeijao_1_kg_89_1_725da0ff6cb31e97d4e35f2f5f2e24ef.jpg",
+      "category": "breakfast",
+      "ingredients": [
+        "1 pão de queijo",
+        "Recheio de sua escolha (presunto, queijo ou requeijão)"
+      ],
+      "steps_to_prepare": [
+        "Corte o pão de queijo ao meio.",
+        "Adicione o recheio desejado e feche.",
+        "Leve ao forno ou micro-ondas para aquecer."
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Avocado toast",
+      "description": "Torrada crocante coberta com abacate amassado, sal, pimenta e um toque de limão.",
+      "summary": "A avocado toast é uma opção moderna e saudável, combinando a crocância da torrada com a cremosidade do abacate temperado.",
+      "url": "https://www.allrecipes.com/thmb/8NccFzsaq0_OZPDKmf7Yee-aG78=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AvocadoToastwithEggFranceC4x3-bb87e3bbf1944657b7db35f1383fabdb.jpg",
+      "category": "breakfast",
+      "ingredients": [
+        "1 fatia de pão",
+        "1/2 abacate",
+        "Sal, pimenta e limão a gosto"
+      ],
+      "steps_to_prepare": [
+        "Toste a fatia de pão.",
+        "Amasse o abacate e tempere com sal, pimenta e limão.",
+        "Espalhe o abacate sobre o pão tostado."
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Iogurte com frutas e granola",
+      "description": "Iogurte natural servido com frutas frescas e granola crocante para um café da manhã leve e nutritivo.",
+      "summary": "Combinando iogurte, frutas frescas e granola, essa receita é ideal para quem procura uma refeição completa para começar o dia.",
+      "url": "https://catracalivre.com.br/wp-content/uploads/2023/10/iogurte-granola.jpg",
+      "category": "breakfast",
+      "ingredients": [
+        "1 pote de iogurte natural",
+        "Frutas frescas a gosto",
+        "Granola a gosto"
+      ],
+      "steps_to_prepare": [
+        "Coloque o iogurte em uma tigela.",
+        "Adicione as frutas frescas cortadas e a granola por cima."
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Mingau de aveia com frutas",
+      "description": "Mingau cremoso de aveia adoçado com mel e coberto com frutas frescas.",
+      "summary": "O mingau de aveia é a opção perfeita para dias mais frios. Com mel e frutas, oferece uma refeição nutritiva e naturalmente doce.",
+      "url": "https://s3.sa-east-1.amazonaws.com/static.activodeporte.com/brasil/uploads/2019/02/11120004/porridge-765.jpeg",
+      "category": "breakfast",
+      "ingredients": [
+        "1/2 xícara de aveia",
+        "1 xícara de leite",
+        "Mel e frutas a gosto"
+      ],
+      "steps_to_prepare": [
+        "Aqueça o leite em uma panela e adicione a aveia.",
+        "Cozinhe até que o mingau esteja cremoso.",
+        "Adicione mel e frutas por cima para servir."
+      ]
+    }
+  ]
+}

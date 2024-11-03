@@ -1,0 +1,195 @@
+{
+  "veganRevenues": [
+    {
+      "id": 1,
+      "title": "Chili Vegano",
+      "description": "Um prato rico em sabor e proteína, feito com feijões e especiarias.",
+      "summary": "O chili vegano é uma opção reconfortante e nutritiva, ideal para dias frios.",
+      "url": "https://veganoporquesim.com.br/wp-content/uploads/2022/09/Chili-Vegano.webp",
+      "category": "vegan",
+      "ingredients": [
+        "1 lata de feijão preto",
+        "1 lata de feijão vermelho",
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "1 pimentão vermelho picado",
+        "1 lata de tomate pelado",
+        "1 colher de sopa de cominho",
+        "1 colher de sopa de páprica",
+        "Sal e pimenta a gosto"
+      ],
+      "steps_to_prepare": [
+        "Refogue a cebola, o alho e o pimentão até ficarem macios.",
+        "Adicione os feijões, os tomates e as especiarias.",
+        "Cozinhe em fogo baixo por 20 minutos, mexendo ocasionalmente.",
+        "Tempere com sal e pimenta antes de servir."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Falafel com Molho Tahine",
+      "description": "Bolinho crocante de grão-de-bico, servido com um delicioso molho tahine.",
+      "summary": "O falafel é uma ótima opção para lanches e refeições rápidas, cheio de sabor.",
+      "url": "https://abacaxisintergalacticos.wordpress.com/wp-content/uploads/2019/07/01.jpeg",
+      "category": "vegan",
+      "ingredients": [
+        "1 lata de grão-de-bico",
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "1/4 de xícara de salsinha picada",
+        "1 colher de chá de cominho",
+        "Sal e pimenta a gosto",
+        "Óleo para fritar",
+        "Para o molho: 1/4 de xícara de tahine, 2 colheres de sopa de suco de limão, 1 dente de alho, água para diluir"
+      ],
+      "steps_to_prepare": [
+        "Misture o grão-de-bico, cebola, alho, salsinha, cominho, sal e pimenta em um processador.",
+        "Forme bolinhos e frite em óleo quente até dourar.",
+        "Misture os ingredientes do molho e sirva com os falafels."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Sopa de Tomate",
+      "description": "Sopa cremosa e reconfortante de tomate, ideal para aquecer os dias frios.",
+      "summary": "Uma sopa simples e deliciosa que combina bem com torradas.",
+      "url": "https://static.itdg.com.br/images/1200-675/dfed94a99672efa9b8af8c8da917f48f/320099-original.jpg",
+      "category": "vegan",
+      "ingredients": [
+        "1 lata de tomate pelado",
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "2 xícaras de caldo de legumes",
+        "1 colher de chá de manjericão seco",
+        "Sal e pimenta a gosto"
+      ],
+      "steps_to_prepare": [
+        "Refogue a cebola e o alho até ficarem macios.",
+        "Adicione os tomates, o caldo e o manjericão.",
+        "Cozinhe por 15 minutos e bata no liquidificador até ficar cremoso.",
+        "Tempere com sal e pimenta antes de servir."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Arroz de Couve-Flor",
+      "description": "Arroz low carb feito com couve-flor, perfeito como acompanhamento.",
+      "summary": "Uma alternativa saudável ao arroz tradicional, com baixo teor de carboidratos.",
+      "url": "https://www.saboresajinomoto.com.br/uploads/images/recipes/arroz-de-couve-flor.jpg",
+      "category": "vegan",
+      "ingredients": [
+        "1 cabeça de couve-flor",
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "1 colher de sopa de azeite",
+        "Sal e pimenta a gosto"
+      ],
+      "steps_to_prepare": [
+        "Rale a couve-flor até ficar com aspecto de arroz.",
+        "Refogue a cebola e o alho no azeite até ficarem macios.",
+        "Adicione a couve-flor ralada e cozinhe por 5 minutos.",
+        "Tempere com sal e pimenta antes de servir."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Quibe de Abóbora",
+      "description": "Uma versão vegana e saudável do tradicional quibe, feito com abóbora.",
+      "summary": "O quibe de abóbora é uma opção saborosa e nutritiva, ideal para acompanhar.",
+      "url": "https://static.itdg.com.br/images/1200-675/4677b0a42be9eb1f61666af91ec81f72/325958-original.jpg",
+      "category": "vegan",
+      "ingredients": [
+        "2 xícaras de abóbora cozida",
+        "1 xícara de trigo para quibe",
+        "1 cebola picada",
+        "1/2 xícara de salsinha picada",
+        "Sal e pimenta a gosto"
+      ],
+      "steps_to_prepare": [
+        "Misture todos os ingredientes em uma tigela até obter uma massa homogênea.",
+        "Modele em formas de quibe e coloque em uma assadeira.",
+        "Asse a 180°C por 30 minutos até dourar."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Salada de Grão-de-Bico",
+      "description": "Uma salada refrescante e nutritiva com grão-de-bico e vegetais.",
+      "summary": "A salada de grão-de-bico é perfeita como acompanhamento ou prato principal.",
+      "url": "https://801ede62.rocketcdn.me/wp-content/uploads/2020/02/Kichererbsensalat-mit-Zaatar-Dressing.jpg",
+      "category": "vegan",
+      "ingredients": [
+        "1 lata de grão-de-bico",
+        "1 tomate picado",
+        "1 pepino picado",
+        "1/4 de cebola roxa picada",
+        "Suco de 1 limão",
+        "Sal e pimenta a gosto"
+      ],
+      "steps_to_prepare": [
+        "Misture todos os ingredientes em uma tigela.",
+        "Tempere com o suco de limão, sal e pimenta.",
+        "Sirva fresca como acompanhamento."
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Espaguete de Abobrinha",
+      "description": "Uma alternativa saudável ao espaguete tradicional, feito com abobrinha.",
+      "summary": "O espaguete de abobrinha é uma opção leve e deliciosa, ideal para qualquer refeição.",
+      "url": "https://static.itdg.com.br/images/1200-675/fc68fb0d87fdb005523d07d5fc33d918/320760-original.jpg",
+      "category": "vegan",
+      "ingredients": [
+        "2 abobrinhas médias",
+        "2 colheres de sopa de azeite",
+        "2 dentes de alho picados",
+        "Sal e pimenta a gosto"
+      ],
+      "steps_to_prepare": [
+        "Com um cortador de legumes, faça tiras finas das abobrinhas.",
+        "Refogue o alho no azeite até dourar.",
+        "Adicione as abobrinhas e cozinhe por 5 minutos, temperando com sal e pimenta."
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Batata Doce Assada",
+      "description": "Batata doce assada temperada com ervas e especiarias.",
+      "summary": "Uma opção saudável e saborosa, perfeita como acompanhamento ou lanche.",
+      "url": "https://i.ytimg.com/vi/IR2Ch8ZpOB8/maxresdefault.jpg",
+      "category": "vegan",
+      "ingredients": [
+        "2 batatas doces médias",
+        "2 colheres de sopa de azeite",
+        "Sal, pimenta e ervas a gosto"
+      ],
+      "steps_to_prepare": [
+        "Corte as batatas em rodelas ou cubos.",
+        "Misture com azeite, sal, pimenta e ervas.",
+        "Asse em forno pré-aquecido a 200°C por 30 minutos."
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Bolo de Banana Vegano",
+      "description": "Um bolo fofinho de banana, perfeito para o lanche.",
+      "summary": "Esse bolo é uma excelente opção para aproveitar bananas maduras.",
+      "url": "https://img.cybercook.com.br/receitas/309/bolo-de-banana-vegano.jpeg",
+      "category": "vegan",
+      "ingredients": [
+        "3 bananas maduras",
+        "1/2 xícara de açúcar",
+        "1/4 de xícara de óleo vegetal",
+        "1 xícara de farinha de trigo",
+        "1 colher de sopa de fermento em pó"
+      ],
+      "steps_to_prepare": [
+        "Amasse as bananas em uma tigela.",
+        "Misture o açúcar e o óleo.",
+        "Adicione a farinha e o fermento, mexendo até ficar homogêneo.",
+        "Asse em forno pré-aquecido a 180°C por 25-30 minutos."
+      ]
+    }
+    
+  ]
+}

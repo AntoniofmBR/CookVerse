@@ -1,0 +1,192 @@
+{
+  "dinnerRevenues": [
+    {
+      "id": 1,
+      "title": "Tacos de frango",
+      "description": "Tortilhas crocantes recheadas com frango temperado, guacamole e salsa fresca.",
+      "summary": "Os tacos de frango são uma refeição divertida e saborosa, perfeita para um jantar descontraído.",
+      "url": "https://www.unileverfoodsolutions.pt/dam/global-ufs/mcos/portugal/calcmenu/recipes/PT-recipes/In-Development/tacos-de-frango/main-header.jpg",
+      "category": "dinner",
+      "ingredients": [
+        "500g de peito de frango desfiado",
+        "1 pacote de tortilhas",
+        "1 abacate",
+        "1/2 cebola picada",
+        "1 tomate picado",
+        "Salsinha a gosto",
+        "Limão, sal e pimenta a gosto"
+      ],
+      "steps_to_prepare": [
+        "Tempere o frango com sal, pimenta e limão e cozinhe até ficar macio.",
+        "Prepare o guacamole amassando o abacate e misturando com cebola, tomate, salsinha, sal e limão.",
+        "Monte os tacos colocando o frango, guacamole e salsa nas tortilhas."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Goulash Húngaro",
+      "description": "Prato tradicional húngaro feito com carne de boi, cebola e páprica, cozido lentamente.",
+      "summary": "O goulash é um prato reconfortante e saboroso, ideal para um jantar aquecido.",
+      "url": "https://www.saboresajinomoto.com.br/uploads/images/recipes/goulash-hungaro.jpg",
+      "category": "dinner",
+      "ingredients": [
+        "500g de carne bovina em cubos",
+        "2 cebolas picadas",
+        "3 colheres de sopa de páprica",
+        "2 batatas picadas",
+        "1 litro de caldo de carne",
+        "Sal e pimenta a gosto"
+      ],
+      "steps_to_prepare": [
+        "Refogue as cebolas em uma panela até ficarem transparentes.",
+        "Adicione a carne e a páprica, refogando até dourar.",
+        "Adicione as batatas e o caldo, cozinhando em fogo baixo até a carne ficar macia."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Lasanha de carne com queijo",
+      "description": "Camadas de massa, carne moída, molho de tomate e muito queijo, assada até borbulhar.",
+      "summary": "Uma lasanha deliciosa e clássica, perfeita para um jantar em família.",
+      "url": "https://static.itdg.com.br/images/640-440/ec2a5e38702c60bf1ace0b5f1c8e9415/shutterstock-739787011.jpg",
+      "category": "dinner",
+      "ingredients": [
+        "500g de carne moída",
+        "1 pacote de massa para lasanha",
+        "2 xícaras de molho de tomate",
+        "2 xícaras de queijo ralado",
+        "1 cebola picada",
+        "Sal e pimenta a gosto"
+      ],
+      "steps_to_prepare": [
+        "Refogue a cebola e a carne moída até dourar.",
+        "Monte a lasanha em uma assadeira, alternando camadas de massa, carne, molho e queijo.",
+        "Leve ao forno até o queijo derreter e a lasanha estiver borbulhante."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Espaguete à carbonara",
+      "description": "Massa de espaguete misturada com ovos, queijo e pancetta, criando um molho cremoso.",
+      "summary": "O espaguete à carbonara é um prato italiano rápido e saboroso, ideal para um jantar prático.",
+      "url": "https://vovopalmirinha.com.br/wp-content/uploads/2016/06/Receita-de-Macarr%C3%A3o-a-carbonara-1-702x336.jpg",
+      "category": "dinner",
+      "ingredients": [
+        "250g de espaguete",
+        "100g de pancetta ou bacon",
+        "2 ovos",
+        "1/2 xícara de queijo parmesão ralado",
+        "Sal e pimenta a gosto"
+      ],
+      "steps_to_prepare": [
+        "Cozinhe o espaguete conforme as instruções da embalagem.",
+        "Em uma frigideira, frite a pancetta até ficar crocante.",
+        "Misture os ovos com o queijo e adicione à massa quente, mexendo rapidamente para formar um molho cremoso.",
+        "Finalize com sal e pimenta a gosto."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Curry de grão-de-bico",
+      "description": "Um prato vegano e saboroso feito com grão-de-bico e especiarias, servido com arroz.",
+      "summary": "O curry de grão-de-bico é uma opção nutritiva e cheia de sabor, perfeita para um jantar leve.",
+      "url": "https://paolacarosella.com.br/cms/wp-content/uploads/2024/01/71_Curry-de-grao-de-bico-scaled.jpg",
+      "category": "dinner",
+      "ingredients": [
+        "1 lata de grão-de-bico",
+        "1 cebola picada",
+        "2 colheres de sopa de curry em pó",
+        "1 lata de leite de coco",
+        "2 tomates picados",
+        "Sal a gosto"
+      ],
+      "steps_to_prepare": [
+        "Refogue a cebola em uma panela até dourar.",
+        "Adicione o curry em pó e misture por um minuto.",
+        "Adicione o grão-de-bico, os tomates e o leite de coco, cozinhando por 10 minutos.",
+        "Sirva com arroz."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Frango ao molho de laranja",
+      "description": "Peito de frango cozido em um molho agridoce de laranja e especiarias.",
+      "summary": "Uma combinação deliciosa de sabores cítricos e frango suculento, ideal para um jantar especial.",
+      "url": "https://www.receiteria.com.br/wp-content/uploads/file-de-frango-com-molho-de-laranja-rotated.jpeg",
+      "category": "dinner",
+      "ingredients": [
+        "500g de peito de frango",
+        "1/2 xícara de suco de laranja",
+        "1 colher de sopa de mel",
+        "1 colher de sopa de molho de soja",
+        "Alho e gengibre a gosto",
+        "Sal e pimenta a gosto"
+      ],
+      "steps_to_prepare": [
+        "Tempere o frango com sal e pimenta.",
+        "Misture o suco de laranja, mel, molho de soja, alho e gengibre.",
+        "Cozinhe o frango na mistura até que esteja bem cozido e o molho engrosse."
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Peixe grelhado com legumes",
+      "description": "Peixe temperado e grelhado, servido com legumes sazonais grelhados.",
+      "summary": "Um prato leve e saudável, perfeito para um jantar nutritivo.",
+      "url": "https://static.itdg.com.br/images/1200-630/ab06c7215fdddbfab6c23f52f242e50d/151293-original.jpg",
+      "category": "dinner",
+      "ingredients": [
+        "2 filés de peixe (salmão, tilápia, etc.)",
+        "1 abobrinha",
+        "1 cenoura",
+        "1 pimentão",
+        "Azeite, sal e pimenta a gosto"
+      ],
+      "steps_to_prepare": [
+        "Tempere os filés de peixe com azeite, sal e pimenta.",
+        "Grelhe os filés em uma frigideira quente por cerca de 4 minutos de cada lado.",
+        "Grelhe os legumes até ficarem macios e sirva junto com o peixe."
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Sopa de abóbora",
+      "description": "Sopa cremosa feita com abóbora, cebola, alho e especiarias, perfeita para aquecer.",
+      "summary": "Uma sopa deliciosa e reconfortante, ideal para jantares em noites frias.",
+      "url": "https://www.minhareceita.com.br/app/uploads/2019/09/sopadeabobora650.jpg",
+      "category": "dinner",
+      "ingredients": [
+        "500g de abóbora",
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "1 litro de caldo de legumes",
+        "Sal, pimenta e azeite a gosto"
+      ],
+      "steps_to_prepare": [
+        "Refogue a cebola e o alho em uma panela com azeite.",
+        "Adicione a abóbora picada e o caldo de legumes.",
+        "Cozinhe até a abóbora ficar macia, depois bata no liquidificador até ficar cremosa."
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Pizza caseira",
+      "description": "Massa de pizza crocante com molho de tomate e coberturas à sua escolha.",
+      "summary": "Uma pizza caseira é uma opção divertida e deliciosa para um jantar em família.",
+      "url": "https://receitatodahora.com.br/wp-content/uploads/2023/03/pizza-caseira-de-liquidificador-20-03.jpg",
+      "category": "dinner",
+      "ingredients": [
+        "500g de farinha de trigo",
+        "1 xícara de água morna",
+        "1/2 pacote de fermento biológico",
+        "2 colheres de sopa de azeite",
+        "Molho de tomate e coberturas a gosto"
+      ],
+      "steps_to_prepare": [
+        "Misture a farinha, água, fermento e azeite para formar a massa.",
+        "Deixe a massa descansar por 1 hora.",
+        "Abra a massa, adicione molho e coberturas e asse em forno pré-aquecido até dourar."
+      ]
+    }
+  ]
+}

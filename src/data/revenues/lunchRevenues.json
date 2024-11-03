@@ -1,0 +1,193 @@
+{
+  "lunchRevenues": [
+    {
+      "id": 1,
+      "title": "Filé de frango à milanesa",
+      "description": "Filé de frango empanado e frito até ficar dourado e crocante, servido com limão.",
+      "summary": "Um clássico do almoço brasileiro, o filé de frango à milanesa é saboroso e fácil de preparar, perfeito para toda a família.",
+      "url": "https://www.minhareceita.com.br/app/uploads/2022/04/mprincipal.jpg",
+      "category": "lunch",
+      "ingredients": [
+        "2 filés de frango",
+        "1 ovo",
+        "1 xícara de farinha de rosca",
+        "Sal e pimenta a gosto",
+        "Óleo para fritar"
+      ],
+      "steps_to_prepare": [
+        "Tempere os filés de frango com sal e pimenta.",
+        "Bata o ovo em uma tigela.",
+        "Passe os filés no ovo e em seguida na farinha de rosca.",
+        "Frite em óleo quente até dourar dos dois lados."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Bife à parmegiana",
+      "description": "Bife empanado, coberto com molho de tomate e queijo derretido, assado até ficar dourado.",
+      "summary": "O bife à parmegiana é uma combinação deliciosa de carne e queijo, perfeito para um almoço reconfortante.",
+      "url": "https://www.estadao.com.br/resizer/v2/WSWGR3VNIVEMZEDCZ3DPAQD3BQ.jpg?quality=80&auth=1e80a50a274f370b5a498c5c05e3c3922fcfcc23a8d31821b4ab182863e56060&width=720&height=503&smart=true",
+      "category": "lunch",
+      "ingredients": [
+        "2 bifes de carne",
+        "1 ovo",
+        "1 xícara de farinha de rosca",
+        "1 xícara de molho de tomate",
+        "1 xícara de queijo ralado"
+      ],
+      "steps_to_prepare": [
+        "Tempere os bifes com sal e pimenta.",
+        "Empane os bifes passando primeiro no ovo e depois na farinha de rosca.",
+        "Frite os bifes até dourar e coloque em uma assadeira.",
+        "Cubra com molho de tomate e queijo ralado, e leve ao forno para gratinar."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Lasanha de berinjela",
+      "description": "Camadas de berinjela, molho de tomate e queijo, assadas até ficar douradas e cremosas.",
+      "summary": "Uma versão saudável da lasanha, feita com berinjela no lugar da massa, perfeita para quem busca uma refeição leve.",
+      "url": "https://claudia.abril.com.br/wp-content/uploads/2020/02/receita-lasanha-berinjela-a-napolitana.jpg",
+      "category": "lunch",
+      "ingredients": [
+        "2 berinjelas",
+        "2 xícaras de molho de tomate",
+        "2 xícaras de queijo ralado",
+        "1 cebola picada",
+        "1 dente de alho picado",
+        "Azeite a gosto"
+      ],
+      "steps_to_prepare": [
+        "Corte as berinjelas em fatias e grelhe até murcharem.",
+        "Refogue a cebola e o alho em azeite, adicione o molho de tomate e cozinhe.",
+        "Monte a lasanha em uma assadeira, alternando camadas de berinjela, molho e queijo.",
+        "Leve ao forno até o queijo derreter e a lasanha estiver borbulhante."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Feijoada completa",
+      "description": "Prato típico brasileiro feito com feijão preto e carnes variadas, servido com arroz e acompanhamentos.",
+      "summary": "A feijoada é um prato tradicional e muito saboroso, ideal para um almoço em família ou com amigos.",
+      "url": "https://assets.unileversolutions.com/recipes-v2/54349.jpg",
+      "category": "lunch",
+      "ingredients": [
+        "500g de feijão preto",
+        "200g de carne seca",
+        "200g de linguiça calabresa",
+        "200g de costela de porco",
+        "1 cebola picada",
+        "3 dentes de alho picados",
+        "Folhas de louro",
+        "Sal a gosto"
+      ],
+      "steps_to_prepare": [
+        "Deixe o feijão de molho por 12 horas.",
+        "Refogue a cebola e o alho, adicione as carnes e cozinhe por alguns minutos.",
+        "Adicione o feijão e a água, junto com as folhas de louro.",
+        "Cozinhe até que o feijão e as carnes estejam macios. Sirva com arroz e acompanhamentos."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Peixe grelhado",
+      "description": "Peixe temperado e grelhado até ficar suculento, servido com limão e ervas.",
+      "summary": "Um prato leve e saudável, o peixe grelhado é ideal para um almoço nutritivo e saboroso.",
+      "url": "https://www.sabornamesa.com.br/media/k2/items/cache/8be8c1081fc3a7b60dd799531ed1890f_XL.jpg",
+      "category": "lunch",
+      "ingredients": [
+        "2 filés de peixe (tilápia, salmão ou outro de sua preferência)",
+        "Suco de 1 limão",
+        "Sal e pimenta a gosto",
+        "Ervas a gosto (salsinha, coentro)"
+      ],
+      "steps_to_prepare": [
+        "Tempere os filés de peixe com limão, sal, pimenta e ervas.",
+        "Aqueça uma grelha ou frigideira e grelhe os filés até que estejam cozidos e dourados.",
+        "Sirva com rodelas de limão e acompanhamentos a gosto."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Risoto de cogumelos",
+      "description": "Arroz arbóreo cozido lentamente com caldo de legumes e cogumelos frescos, finalizado com queijo parmesão.",
+      "summary": "O risoto de cogumelos é um prato cremoso e sofisticado, perfeito para um almoço especial.",
+      "url": "https://www.boqnews.com/wp-content/uploads/2020/11/risoto.png",
+      "category": "lunch",
+      "ingredients": [
+        "1 xícara de arroz arbóreo",
+        "200g de cogumelos frescos",
+        "1 cebola picada",
+        "2 colheres de sopa de manteiga",
+        "1/2 xícara de vinho branco",
+        "Caldo de legumes a gosto",
+        "Queijo parmesão ralado"
+      ],
+      "steps_to_prepare": [
+        "Refogue a cebola na manteiga até ficar transparente.",
+        "Adicione os cogumelos e refogue até murcharem.",
+        "Coloque o arroz e misture, adicione o vinho e cozinhe até evaporar.",
+        "Adicione o caldo aos poucos, mexendo sempre, até o arroz ficar al dente.",
+        "Finalize com queijo parmesão ralado."
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Salada Caesar",
+      "description": "Salada fresca com alface, croutons, queijo parmesão e molho Caesar.",
+      "summary": "Uma salada clássica e refrescante, a Caesar é perfeita para complementar o almoço.",
+      "url": "https://static.itdg.com.br/images/1200-675/3f0787cb6db2f0db10269fc45bd8abee/shutterstock-1078415420.jpg",
+      "category": "lunch",
+      "ingredients": [
+        "1 pé de alface romana",
+        "1/2 xícara de croutons",
+        "1/4 xícara de queijo parmesão ralado",
+        "2 colheres de sopa de molho Caesar"
+      ],
+      "steps_to_prepare": [
+        "Lave e corte a alface em pedaços.",
+        "Misture a alface com o molho Caesar em uma tigela.",
+        "Adicione os croutons e o queijo parmesão por cima."
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Quibe assado",
+      "description": "Mistura de trigo para quibe com carne e temperos, assada até ficar dourada e crocante.",
+      "summary": "O quibe assado é uma opção saborosa e nutritiva, perfeita para um almoço diferente.",
+      "url": "https://i.ytimg.com/vi/4lnkIs408AQ/maxresdefault.jpg",
+      "category": "lunch",
+      "ingredients": [
+        "1 xícara de trigo para quibe",
+        "500g de carne moída",
+        "1 cebola picada",
+        "1/2 xícara de hortelã picada",
+        "Sal e pimenta a gosto",
+        "Azeite para untar"
+      ],
+      "steps_to_prepare": [
+        "Deixe o trigo de molho por 1 hora e escorra.",
+        "Misture o trigo com a carne, cebola, hortelã, sal e pimenta.",
+        "Coloque em uma assadeira untada e leve ao forno até dourar."
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Pasta ao molho pesto",
+      "description": "Massa cozida servida com um delicioso molho pesto de manjericão e nozes.",
+      "summary": "Uma opção prática e deliciosa, a pasta ao molho pesto é perfeita para um almoço rápido e saboroso.",
+      "url": "https://renata.com.br/images/receitas/36/renata-imagem-receitas-macarrao-ao-molho-pesto-share.jpg",
+      "category": "lunch",
+      "ingredients": [
+        "200g de massa de sua escolha",
+        "1/2 xícara de molho pesto",
+        "Queijo parmesão a gosto"
+      ],
+      "steps_to_prepare": [
+        "Cozinhe a massa conforme as instruções da embalagem.",
+        "Misture a massa cozida com o molho pesto.",
+        "Sirva com queijo parmesão por cima."
+      ]
+    }
+  ]
+}
