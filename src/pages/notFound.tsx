@@ -11,6 +11,10 @@ export function NotFoundPage () {
     navigate('/')
   }
 
+  function handleClickSupportButton() {
+    window.location.href = 'mailto:suporte@cookverse.com?subject=Interessado em Contato&body=Olá, gostaria de entrar em contato.'
+  }
+
   return (
     <main className='flex flex-col min-h-screen bg-blues-blue_500 align-center' >
       <Header />
@@ -27,7 +31,12 @@ export function NotFoundPage () {
 
           <p className='lg:text-2xl md:text-xl sm:text-base text-whites-white_200' >
             Você pode tentar entrar em contato com o nosso
-            <a href="#" className='text-blues-blue_900 '> suporte </a> ou voltar para a página inicial
+            <a
+              className='text-blues-blue_900 ml-1 cursor-pointer hover:underline'
+              onClick={ handleClickSupportButton }
+            >
+              suporte
+            </a> ou voltar para a página inicial
           </p>
 
           <Button
