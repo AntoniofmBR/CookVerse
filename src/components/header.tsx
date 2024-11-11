@@ -29,10 +29,10 @@ export function Header () {
         whileHover={{ scale: 1.1 }}
         src={logo} 
         alt="Logo"
-        className='lg:h-28 md:h-20 sm:h-16 p-3 pl-0' 
+        className='lg:h-28 md:h-20 sm:h-16 p-3 pl-0'
       />
 
-      <div className='lg:text-xl md:text-base sm:text-xs flex items-center justify-evenly font-semibold gap-7 text-blues-blue_900' >
+      <div className='lg:text-xl md:text-base sm:text-xs flex items-center justify-evenly font-semibold gap-2 text-blues-blue_900' >
         <motion.button
           whileHover={{ scale: 1.1 }}
           onClick={ handleNavigateToInitialPage }
@@ -64,7 +64,7 @@ export function Header () {
 
       <Button
         title='Preparar'
-        className='lg:w-32 md:w-28 sm:w-20'
+        className='lg:w-32 md:w-28 sm:w-24'
         onClick={ handleNavigateToCategoriesPage }
       />
     </header>

@@ -18,7 +18,7 @@ export function TipCard ({ id, title, summary, url }: TipCardProps) {
   return (
     <motion.div
       whileHover={{ scale: 1.07 }}
-      className='lg:h-96 lg:w-10/12 md:h-80 md:w-9/12 sm:h-80 sm:w-9/12 flex flex-col gap-2 align-center bg-gradient-to-r from-white to-grays-gray_300 p-8 rounded-2xl shadow-blacks-black_100 shadow-md'
+      className='lg:h-96 lg:w-10/12 md:h-80 md:w-9/12 sm:w-full sm:h-auto flex flex-col gap-2 align-center bg-gradient-to-r from-white to-grays-gray_300 p-8 rounded-2xl shadow-blacks-black_100 shadow-md'
       onClick={ () => handleNavigateToTipPage(id) }
     >
 

@@ -20,36 +20,38 @@ import { NotFoundPage } from './pages/notFound';
 
 export default function App() {
   return (
-    <Router>
-    <Routes>
-      <Route path="/" element={ <Homepage/> } />
-      <Route path="*" element={<NotFoundPage />} />
+    <div className='app-container' >
+      <Router>
+        <Routes>
+          <Route path="/" element={ <Homepage/> } />
+          <Route path="*" element={<NotFoundPage />} />
 
-      <Route path="/categories" element={ <Categories /> } />
-      <Route path="/about-us" element={ <AboutUsPage /> } />
+          <Route path="/categories" element={ <Categories /> } />
+          <Route path="/about-us" element={ <AboutUsPage /> } />
 
-      <Route path="/kitchen-tips" element={ <KitchenTips /> } />
-      <Route path="/kitchen-tips/:id" element={ <TipPage /> } />
+          <Route path="/kitchen-tips" element={ <KitchenTips /> } />
+          <Route path="/kitchen-tips/:id" element={ <TipPage /> } />
 
-      <Route path="/categories/breakfast" element={ <BreakfastPage /> } />
-      <Route path="/categories/breakfast/:id" element={ <RevenuePage /> } />
+          <Route path="/categories/breakfast" element={ <BreakfastPage /> } />
+          <Route path="/categories/breakfast/:id" element={ <RevenuePage /> } />
 
-      <Route path="/categories/lunch" element={ <LunchPage /> } />
-      <Route path="/categories/lunch/:id" element={ <RevenuePage /> } />
+          <Route path="/categories/lunch" element={ <LunchPage /> } />
+          <Route path="/categories/lunch/:id" element={ <RevenuePage /> } />
 
-      <Route path="/categories/dinner" element={ <DinnerPage /> } />
-      <Route path="/categories/dinner/:id" element={ <RevenuePage /> } />
+          <Route path="/categories/dinner" element={ <DinnerPage /> } />
+          <Route path="/categories/dinner/:id" element={ <RevenuePage /> } />
 
-      <Route path="/categories/dessert" element={ <DessertPage /> } />
-      <Route path="/categories/dessert/:id" element={ <RevenuePage /> } />
+          <Route path="/categories/dessert" element={ <DessertPage /> } />
+          <Route path="/categories/dessert/:id" element={ <RevenuePage /> } />
 
-      <Route path="/categories/vegan" element={ <VeganPage /> } />
-      <Route path="/categories/vegan/:id" element={ <RevenuePage /> } />
+          <Route path="/categories/vegan" element={ <VeganPage /> } />
+          <Route path="/categories/vegan/:id" element={ <RevenuePage /> } />
 
-      <Route path="/categories/drinks" element={ <DrinksPage /> } />
-      <Route path="/categories/drinks/:id" element={ <RevenuePage /> } />
-    </Routes>
-    </Router>
+          <Route path="/categories/drinks" element={ <DrinksPage /> } />
+          <Route path="/categories/drinks/:id" element={ <RevenuePage /> } />
+        </Routes>
+      </Router>
+    </div>
   )
 }
 

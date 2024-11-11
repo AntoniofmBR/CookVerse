@@ -19,7 +19,7 @@ export function NotFoundPage () {
     <main className='flex flex-col min-h-screen bg-blues-blue_500 align-center' >
       <Header />
 
-      <main className='flex lg:flex-row md:flex-row sm:flex-col justify-center w-full mt-20 gap-12' >
+      <main className='flex lg:flex-row md:flex-row sm:flex-col justify-center lg:text-left md:text-left sm:text-center w-full mt-20 gap-12' >
         <section className='lg:w-1/2 md:w-1/2 sm:w-full flex flex-col gap-7' >
           <h1 className='lg:text-6xl md:text-5xl sm:text-6xl font-bold text-blues-blue_700 w-full' >
             ERROR 404
@@ -41,7 +41,7 @@ export function NotFoundPage () {
 
           <Button
             title='Voltar para Home'
-            className='lg:w-2/6 md:w-2/4 sm:w-full;'
+            className='lg:w-2/6 md:w-auto sm:w-full sm:justify-self-end'
             onClick={ handleBackToHome }
           />
         </section>

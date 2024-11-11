@@ -8,6 +8,15 @@
   box-sizing: border-box;
 }
 
+body, html {
+  width: 100%;
+  height: 100%;
+}
+
+.app-container {
+  overflow-x: hidden;
+}
+
 ::-webkit-scrollbar {
   width: 7px;
 }

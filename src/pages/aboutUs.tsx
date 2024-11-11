@@ -15,11 +15,11 @@ export function AboutUsPage () {
 
       <div className='w-full flex lg:flex-row md:flex-row sm:flex-col justify-center items-center' >
         <section className='lg:w-1/2 md:w-1/2 sm:w-full flex flex-col gap-5 p-5' >
-          <p className='lg:text-3xl md:text-2xl sm:text-3xl text-whites-white_200 font-base' >
+          <p className='lg:text-3xl md:text-2xl sm:text-2xl lg:text-left md:text-left sm:text-center text-whites-white_200 font-base' >
           Acreditamos que a culinária é uma arte que deve ser acessível para  todos, por isso o nosso objetivo é inspirar pessoas a explorarem o universo gastronômico de forma simples e prática. 
           </p>
 
-          <p className='lg:text-3xl md:text-2xl sm:text-3xl text-whites-white_200 font-base mt-2' >
+          <p className='lg:text-3xl md:text-2xl sm:text-2xl lg:text-left md:text-left sm:text-center text-whites-white_200 font-base mt-2' >
           Seja você um iniciante na cozinha ou um chef experiente, aqui você encontrará receitas fáceis, saudáveis e deliciosas, perfeitas para qualquer ocasião.
           </p>
         </section>
